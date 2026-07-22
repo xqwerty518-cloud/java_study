@@ -1,6 +1,6 @@
 package 수요일;
 
-public class 자바구조메모 {
+public class 자바구조메모ㅡ두번째 {
 
 	public static void main(String[] args) {
 		/**

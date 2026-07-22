@@ -1,6 +1,6 @@
 package 수요일;
 
-public class A {
+public class Aㅡ다섯번째 {
 
 }
 

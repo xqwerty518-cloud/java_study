@@ -1,6 +1,6 @@
 package 수요일;
 
-public class 실습 {
+public class 실습ㅡ네번째 {
 	public static void main(String[] args) {
 		System.out.println("콘솔 화면에 출력");
 	}
