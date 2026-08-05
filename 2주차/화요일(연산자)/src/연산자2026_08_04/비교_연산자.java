@@ -1,4 +1,4 @@
-package 연산자;
+package 연산자2026_08_04;
 
 public class 비교_연산자 {
 

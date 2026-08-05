@@ -1,6 +1,6 @@
 package 연산자2026_08_03;
 
-public class 연산자의_연산방법 {
+public class 산술연산자_증감연산자 {
 
 	public static void main(String[] args) {
 		/**
