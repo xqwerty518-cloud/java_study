@@ -30,7 +30,7 @@ public class 참조변수와_배열객체의_값_초기화 {
 		System.out.println();
 		
 		// 힙 메모리의 초깃값(강제 초기화)
-		boolean[] array1 = new boolean[3]; // false로 초기호
+		boolean[] array1 = new boolean[3]; // false로 초기화
 		for(int i=0; i<3; i++) {
 			System.out.print(array1[i]+" ");
 		}
