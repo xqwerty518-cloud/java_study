@@ -22,15 +22,28 @@ public class main메서드의_입력매개변수 {
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
-		
+		System.out.println(); 
+	
 		//String이므로 문자열이 연결돼 출력
 		System.out.println(b+1); 
 		System.out.println(c+1);
+		System.out.println();
 		
 		int d = Integer.parseInt(b); //String -> int 변화
 		double e = Double.parseDouble(c); // String -> double 변화
 		System.out.println(d+1); // int+int 이므로 값이 더해짐
 		System.out.println(e+1); // double+int이므로 실수로 출력
+		System.out.println();
+		
+		for(int i =0; i<args.length; i++) {
+			System.out.println(args[i]);
+		}
+		
+		System.out.println();
+		
+		for(String w : args) {
+			System.out.println(w);
+		}
 		
 		/**
 		 * 타입 변화 메서드
