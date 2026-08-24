@@ -110,6 +110,7 @@ public class 클래스_내_다른_생성자를_호출하는_this메서드 {
 		System.out.println();
 		D d2 = new D(3);
 		
+		//this() 미사용
 		E e1 = new E();
 		E e2 = new E(3);
 		E e3 = new E(3,4);
@@ -119,6 +120,7 @@ public class 클래스_내_다른_생성자를_호출하는_this메서드 {
 		
 		System.out.println();
 		
+		//this() 사용
 		F f1 = new F();
 		F f2 = new F(3);
 		F f3 = new F(3,4);
