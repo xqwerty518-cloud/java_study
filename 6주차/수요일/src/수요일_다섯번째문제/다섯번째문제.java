@@ -48,7 +48,7 @@ public class 다섯번째문제 {
 		inventory.addItem("복숭아", 3);
 		inventory.addItem("귤", 60);
 
-		System.out.println(inventory.findItem("사"));
+		System.out.println(inventory.findItem("사과"));
 		System.out.println(inventory.getTotalItems());
 	}
 
