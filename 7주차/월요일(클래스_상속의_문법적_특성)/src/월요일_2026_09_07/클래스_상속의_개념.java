@@ -51,7 +51,7 @@ package 월요일_2026_09_07;
  * 관리 할 수 있게 된다. 
  */
 
-public class 클래스_상속의_개념과_문법적_특징 {
+public class 클래스_상속의_개념 {
 
 	public static void main(String[] args) {
 		
