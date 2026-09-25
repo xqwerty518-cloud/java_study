@@ -12,7 +12,11 @@ interface 예1_1{
 	
 }
 
-interface 예1_2{
+interface 예1_2 extends 예1_1{
+	
+}
+
+interface 예1_2_1 extends 예1_1,예1_2{
 	
 }
 
